@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api", "destination": "https://fr.connfull.org:2096" }
+  ]
+}
