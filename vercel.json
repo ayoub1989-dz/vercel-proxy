@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "http://us1.sshws.net:80/$1"
-    }
-  ]
-}
