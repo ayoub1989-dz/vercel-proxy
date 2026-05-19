@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/stream",
+      "destination": "https://fr.connfull.org:9443/stream"
+    }
+  ]
+}
